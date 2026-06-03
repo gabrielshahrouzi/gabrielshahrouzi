@@ -27,11 +27,4 @@ I build software that compresses repetitive workflows into simple, high-leverage
 
 Contributed patches to the Linux kernel involving driver-level fixes, debugging, and domain-specific systems knowledge.
 
-This work required tracing behavior across low-level code paths, reasoning through subsystem constraints, and making small, precise changes where correctness matters.
-
 https://github.com/torvalds/linux/commits/master/?author=gabrielshahrouzi&since=2025-01-01
-
-## Links
-
-- 🌐 Website: https://gabrielshahrouzi.github.io
-- 💼 LinkedIn: https://linkedin.com/in/gabriel-shahrouzi-902134197
